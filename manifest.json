@@ -1,6 +1,6 @@
 {
-  "short_name": "WebMipsim",
-  "name": "Component-level emulator for an educational mips-based CPU.",
+  "short_name": "TsMipsim",
+  "name": "Component-level simulator for an educational mips-based CPU.",
   "icons": [
     {
       "src": "favicon.ico",
